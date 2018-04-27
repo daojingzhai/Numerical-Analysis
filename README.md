@@ -1,5 +1,5 @@
 # Numerical-Analysis
-In this respository, I will use numerical approximation for the problems of mathematical analysis. 
+In this respository, I will implement some classical algorithms for the problems of mathematical analysis. 
 
 1. Solving equations and systems of equations
     - Root-finding algorithms
