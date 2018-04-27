@@ -4,7 +4,7 @@ In this respository, I will use numerical approximation for the problems of math
 1. Solving equations and systems of equations
     - Root-finding algorithms
         - Bisection method
-        - Fixed_point_iteration
+        - Fixed point iteration
     - Solving system of linear equations
         - Iterative methods
             - Jacobi method
