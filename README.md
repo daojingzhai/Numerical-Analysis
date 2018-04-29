@@ -10,4 +10,8 @@ In this respository, I will implement some classical algorithms for the problems
             - Jacobi method
             - Gauss-Seidel method
             - Successive over-relaxation
-    
+        - Gaussin Elimination
+            - Gauss-Jordan Elimination
+            - Gauss Jordan Elimination Through Pivoting
+            
+            
