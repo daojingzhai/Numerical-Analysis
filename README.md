@@ -12,6 +12,6 @@ In this respository, I will implement some classical algorithms for the problems
             - Successive over-relaxation
         - Gaussin Elimination
             - Gauss-Jordan Elimination
-            - Gauss Jordan Elimination Through Pivoting
+            - Gauss-Jordan Elimination Through Pivoting
             
             
