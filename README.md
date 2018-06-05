@@ -13,6 +13,9 @@ In this respository, I will implement some classical algorithms for the problems
         - Gaussin Elimination
             - Gauss-Jordan Elimination
             - Gauss-Jordan Elimination Through Pivoting
-2. Interpolation
-    - Spline interpolation
-    - Polynomial interpolation
+2. Interpolation, Extrapolation & Regression
+    - Interpolation
+        - Spline interpolation
+        - Polynomial interpolation
+    - Regression
+        - Least Square
