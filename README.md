@@ -22,4 +22,7 @@ In this respository, I will implement some classical algorithms for the problems
             - Jacobi method
             - Gauss-Seidel method
             - Successive over-relaxation
-
+3. Differential equations
+    - Ordinary differential equations
+        - Euler methods and Euler-Modify methods
+    - Partial differential equations
