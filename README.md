@@ -25,4 +25,7 @@ In this respository, I will implement some classical algorithms for the problems
 3. Differential equations
     - Ordinary differential equations
         - Euler methods and Euler-Modify methods
+            - solve RC/RLC circuits ODE
+        - Runge-Kutta methods
+            - solve simple pendulum and damped pendulum equation
     - Partial differential equations
