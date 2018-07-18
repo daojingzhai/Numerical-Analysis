@@ -16,5 +16,7 @@ In this respository, I will implement some classical algorithms for the problems
     - Polynomial interpolation
         - Lagrange interpolation
         - Newtons interpolation
+    - Spline interpolation
+        - Cublic Spline interpolation
 4. Regression
     - Least Squares method
