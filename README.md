@@ -5,17 +5,17 @@ In this respository, I will implement some classical algorithms for the problems
     - Bisection method
     - Fixed point iteration
 2. Solving Equations
-    2.1. Root-finding algorithms
-    - Bisection method
-    - Fixed point iteration
-    2.2. Solving system of linear equation
-    - Gaussian elimination
-        - Gauss-Jordan Elimination
-        - Gauss-Jordan Elimination Through Pivoting
-    - Iterative methods
-        - Jacobi method
-        - Gauss-Seidel method
-        - Successive over-relaxation
+    - Root-finding algorithms
+        - Bisection method
+        - Fixed point iteration
+    - Solving system of linear equation
+        - Gaussian elimination
+            - Gauss-Jordan Elimination
+            - Gauss-Jordan Elimination Through Pivoting
+        - Iterative methods
+            - Jacobi method
+            - Gauss-Seidel method
+            - Successive over-relaxation
 3. Interpolation
     - Polynomial interpolation
         - Lagrange interpolation
