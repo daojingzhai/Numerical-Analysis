@@ -31,3 +31,6 @@ In this respository, I will implement some classical algorithms for the problems
     - Partial differential equations
         - Shooting method
         - Finite element method
+4. Evaluating integrals
+    - Monte Carlo Integral
+        - Find Pi
