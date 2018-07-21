@@ -30,7 +30,11 @@ In this respository, I will implement some classical algorithms for the problems
             - solve RLC circuits, simple pendulum and damped pendulum ODE
     - Partial differential equations
         - Shooting method
+            - 1D wave function
         - Finite element method
+            - 1D wave function
+            - 1D heat diffusion function
+            - 2D heat diffusion function
 4. Evaluating integrals
     - Monte Carlo Integral
         - Find Pi
