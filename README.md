@@ -1,7 +1,7 @@
 # Numerical-Analysis
-In this respository, I will implement some classical algorithms for the problems of mathematical analysis. 
+### _Numerical analysis is the study of algorithms that use numerical approximation for the problems of mathematical analysis. It naturally finds applications in all fields of engineering and the physical sciences. Employ MATLAB & Python, I will implement some classical algorithms for solving problems._
 
-1. Interpolation, extrapolation, and regression
+### 1. Interpolation, extrapolation, and regression
     - Interpolation
         - Polynomial interpolation
             - Lagrange interpolation
@@ -10,7 +10,7 @@ In this respository, I will implement some classical algorithms for the problems
             - Cublic Spline interpolation
     - Regression
         - Least Squares method
-2. Solving equations
+### 2. Solving equations
     - Root-finding algorithms
         - Bisection method
         - Fixed point iteration
@@ -22,7 +22,7 @@ In this respository, I will implement some classical algorithms for the problems
             - Jacobi method
             - Gauss-Seidel method
             - Successive over-relaxation
-3. Differential equations
+### 3. Differential equations
     - Ordinary differential equations
         - Euler methods and Euler-Modify methods
             - solve RC circuits ODE
@@ -35,6 +35,6 @@ In this respository, I will implement some classical algorithms for the problems
             - 1D wave function
             - 1D heat diffusion function
             - 2D heat diffusion function
-4. Evaluating integrals
+### 4. Evaluating integrals
     - Monte Carlo Integral
         - Find Pi
